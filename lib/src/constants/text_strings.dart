@@ -25,3 +25,6 @@ const String AZBuyAll = "Buy All";
 const String AZFrequentlyBought = "Frequently bought together";
 const String AZRelatedProducts = "Related Products";
 const String AZAskAQuestion = "Ask a question";
+
+/// Search
+const String AZSearch = "Search";

@@ -9,4 +9,7 @@ class MyAColors {
   static const Color buttonColor = Color(0xFFD9BE37);
   static const Color redFavoriteColor = Color(0xFFE71E1E);
   static const Color greenAccentColor = Color(0xFF95C717);
+
+  static const Color bannerSelectedColor = Color(0xFF002131);
+  static const Color bannerUnselectedColor = Color(0xFF98AFB6);
 }
